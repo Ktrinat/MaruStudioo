@@ -1,0 +1,9 @@
+<div style="text-align: center;">
+  <img src="cxema.png" width="300">
+  <p>
+    <a href="https://clck.ru/3MeQ2f" 
+       style="color: blue; text-decoration: underline;">
+      Click here
+    </a>
+  </p>
+</div>
